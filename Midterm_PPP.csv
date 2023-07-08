@@ -1,0 +1,104 @@
+﻿Country_ID,Geography,Category,Data Type,Unit,Current Constant,Index
+1,Algeria,Purchasing Power Parity Conversion Factor,Socio-economic indicators,DZD per international dollar,-,40.9
+2,Angola,Purchasing Power Parity Conversion Factor,Socio-economic indicators,AOA per international dollar,-,212.2
+3,Argentina,Purchasing Power Parity Conversion Factor,Socio-economic indicators,ARS per international dollar,-,42.7
+4,Australia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,AUD per international dollar,-,1.5
+5,Austria,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.8
+6,Azerbaijan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,AZN per international dollar,-,0.6
+7,Bahrain,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BHD per international dollar,-,0.2
+8,Bangladesh,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BDT per international dollar,-,31.8
+9,Belarus,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BYN per international dollar,-,0.9
+10,Belgium,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.8
+11,Bolivia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BOB per international dollar,-,2.6
+12,Bosnia and Herzegovina,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BAM per international dollar,-,0.7
+13,Brazil,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BRL per international dollar,-,2.5
+14,Bulgaria,Purchasing Power Parity Conversion Factor,Socio-economic indicators,BGN per international dollar,-,0.7
+15,Cambodia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,KHR per international dollar,-,1383
+16,Cameroon,Purchasing Power Parity Conversion Factor,Socio-economic indicators,XAF per international dollar,-,226.8
+17,Canada,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CAD per international dollar,-,1.2
+18,Chile,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CLP per international dollar,-,456.9
+19,China,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CNY per international dollar,-,4.2
+20,Colombia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,COP per international dollar,-,1405.8
+21,Costa Rica,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CRC per international dollar,-,342.2
+22,Côte d'Ivoire,Purchasing Power Parity Conversion Factor,Socio-economic indicators,XOF per international dollar,-,241.8
+23,Croatia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,HRK per international dollar,-,3.2
+24,Czech Republic,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CZK per international dollar,-,13
+25,Denmark,Purchasing Power Parity Conversion Factor,Socio-economic indicators,DKK per international dollar,-,6.7
+26,Dominican Republic,Purchasing Power Parity Conversion Factor,Socio-economic indicators,DOP per international dollar,-,23.7
+27,Ecuador,Purchasing Power Parity Conversion Factor,Socio-economic indicators,USD per international dollar,-,0.5
+28,Egypt,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EGP per international dollar,-,4.6
+29,El Salvador,Purchasing Power Parity Conversion Factor,Socio-economic indicators,USD per international dollar,-,0.5
+30,Estonia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.6
+31,Ethiopia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,ETB per international dollar,-,13.9
+32,Finland,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.8
+33,France,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.7
+34,Georgia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,GEL per international dollar,-,1
+35,Germany,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.7
+36,Ghana,Purchasing Power Parity Conversion Factor,Socio-economic indicators,GHS per international dollar,-,2.3
+37,Greece,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.5
+38,Guatemala,Purchasing Power Parity Conversion Factor,Socio-economic indicators,GTQ per international dollar,-,4
+39,Honduras,Purchasing Power Parity Conversion Factor,Socio-economic indicators,HNL per international dollar,-,10.8
+40,Hong Kong - China,Purchasing Power Parity Conversion Factor,Socio-economic indicators,HKD per international dollar,-,5.9
+41,Hungary,Purchasing Power Parity Conversion Factor,Socio-economic indicators,HuF per international dollar,-,153
+42,India,Purchasing Power Parity Conversion Factor,Socio-economic indicators,INR per international dollar,-,23.2
+43,Indonesia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,IDR per international dollar,-,4758.7
+44,Iran,Purchasing Power Parity Conversion Factor,Socio-economic indicators,IRR per international dollar,-,46157.5
+45,Iraq,Purchasing Power Parity Conversion Factor,Socio-economic indicators,IQD per international dollar,-,705
+46,Ireland,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.8
+47,Israel,Purchasing Power Parity Conversion Factor,Socio-economic indicators,ILS per international dollar,-,3.7
+48,Italy,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.6
+49,Japan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,JPY per international dollar,-,96.4
+50,Jordan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,JOD per international dollar,-,0.3
+51,Kazakhstan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,KZT per international dollar,-,151.3
+52,Kenya,Purchasing Power Parity Conversion Factor,Socio-economic indicators,KES per international dollar,-,43.9
+53,Kuwait,Purchasing Power Parity Conversion Factor,Socio-economic indicators,KWD per international dollar,-,0.2
+54,Laos,Purchasing Power Parity Conversion Factor,Socio-economic indicators,LAK per international dollar,-,2888.5
+55,Latvia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.5
+56,Lebanon,Purchasing Power Parity Conversion Factor,Socio-economic indicators,LBP per international dollar,-,3152.6
+57,Lithuania,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.5
+58,Malaysia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,MYR per international dollar,-,1.6
+59,Mexico,Purchasing Power Parity Conversion Factor,Socio-economic indicators,MXN per international dollar,-,9.9
+61,Morocco,Purchasing Power Parity Conversion Factor,Socio-economic indicators,MAD per international dollar,-,4.1
+62,Myanmar,Purchasing Power Parity Conversion Factor,Socio-economic indicators,MMK per international dollar,-,363.2
+63,Netherlands,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.8
+64,New Zealand,Purchasing Power Parity Conversion Factor,Socio-economic indicators,NZD per international dollar,-,1.5
+65,Nigeria,Purchasing Power Parity Conversion Factor,Socio-economic indicators,NGN per international dollar,-,152.6
+66,North Macedonia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,MKD per international dollar,-,19.4
+67,Norway,Purchasing Power Parity Conversion Factor,Socio-economic indicators,NOK per international dollar,-,10.8
+68,Oman,Purchasing Power Parity Conversion Factor,Socio-economic indicators,OMR per international dollar,-,0.2
+69,Pakistan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PKR per international dollar,-,41.7
+70,Panama,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PAB per international dollar,-,0.5
+71,Paraguay,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PYG per international dollar,-,2654.1
+72,Peru,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PEN per international dollar,-,1.9
+73,Philippines,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PHP per international dollar,-,19.2
+74,Poland,Purchasing Power Parity Conversion Factor,Socio-economic indicators,PLN per international dollar,-,1.8
+75,Portugal,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.6
+76,Qatar,Purchasing Power Parity Conversion Factor,Socio-economic indicators,QAR per international dollar,-,2.4
+77,Romania,Purchasing Power Parity Conversion Factor,Socio-economic indicators,RON per international dollar,-,1.8
+78,Russia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,RUB per international dollar,-,29.2
+79,Saudi Arabia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,SAR per international dollar,-,1.8
+80,Serbia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,RSD per international dollar,-,42.2
+81,Singapore,Purchasing Power Parity Conversion Factor,Socio-economic indicators,SGD per international dollar,-,0.8
+82,Slovakia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.5
+83,Slovenia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.6
+84,South Africa,Purchasing Power Parity Conversion Factor,Socio-economic indicators,ZAR per international dollar,-,7.2
+85,South Korea,Purchasing Power Parity Conversion Factor,Socio-economic indicators,KRW per international dollar,-,824.2
+86,Spain,Purchasing Power Parity Conversion Factor,Socio-economic indicators,EUR per international dollar,-,0.6
+87,Sri Lanka,Purchasing Power Parity Conversion Factor,Socio-economic indicators,LKR per international dollar,-,53.9
+88,Sweden,Purchasing Power Parity Conversion Factor,Socio-economic indicators,SEK per international dollar,-,8.8
+89,Switzerland,Purchasing Power Parity Conversion Factor,Socio-economic indicators,CHF per international dollar,-,1.1
+90,Taiwan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,TWD per international dollar,-,14.8
+91,Tanzania,Purchasing Power Parity Conversion Factor,Socio-economic indicators,TZS per international dollar,-,870.8
+92,Thailand,Purchasing Power Parity Conversion Factor,Socio-economic indicators,THB per international dollar,-,12
+93,Tunisia,Purchasing Power Parity Conversion Factor,Socio-economic indicators,TND per international dollar,-,1
+94,Turkey,Purchasing Power Parity Conversion Factor,Socio-economic indicators,TRY per international dollar,-,2.5
+95,Turkmenistan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,TMT per international dollar,-,1.6
+96,Uganda,Purchasing Power Parity Conversion Factor,Socio-economic indicators,UGX per international dollar,-,1295.8
+97,Ukraine,Purchasing Power Parity Conversion Factor,Socio-economic indicators,UAH per international dollar,-,9.3
+98,United Arab Emirates,Purchasing Power Parity Conversion Factor,Socio-economic indicators,AED per international dollar,-,2.2
+99,United Kingdom,Purchasing Power Parity Conversion Factor,Socio-economic indicators,GBP per international dollar,-,0.7
+100,Uruguay,Purchasing Power Parity Conversion Factor,Socio-economic indicators,UYU per international dollar,-,30.1
+101,USA,Purchasing Power Parity Conversion Factor,Socio-economic indicators,USD per international dollar,-,1
+102,Uzbekistan,Purchasing Power Parity Conversion Factor,Socio-economic indicators,UZS per international dollar,-,2476
+103,Venezuela,Purchasing Power Parity Conversion Factor,Socio-economic indicators,VES per international dollar,-,348952.5
+104,Vietnam,Purchasing Power Parity Conversion Factor,Socio-economic indicators,VND per international dollar,-,5713.5

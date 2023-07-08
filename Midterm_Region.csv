@@ -1,0 +1,104 @@
+﻿Country_ID,Geography,Region_Code
+1,Algeria,MEA
+2,Angola,MEA
+3,Argentina,LA
+4,Australia,AA
+5,Austria,WE
+6,Azerbaijan,AP
+7,Bahrain,MEA
+8,Bangladesh,AP
+9,Belarus,EE
+10,Belgium,WE
+11,Bolivia,LA
+12,Bosnia and Herzegovina,EE
+13,Brazil,LA
+14,Bulgaria,EE
+15,Cambodia,AP
+16,Cameroon,MEA
+17,Canada,NOA
+18,Chile,LA
+19,China,AP
+20,Colombia,LA
+21,Costa Rica,LA
+22,Côte d'Ivoire,MEA
+23,Croatia,EE
+24,Czech Republic,EE
+25,Denmark,WE
+26,Dominican Republic,LA
+27,Ecuador,LA
+28,Egypt,MEA
+29,El Salvador,LA
+30,Estonia,EE
+31,Ethiopia,MEA
+32,Finland,WE
+33,France,WE
+34,Georgia,EE
+35,Germany,WE
+36,Ghana,MEA
+37,Greece,WE
+38,Guatemala,LA
+39,Honduras,LA
+40,Hong Kong - China,AP
+41,Hungary,EE
+42,India,AP
+43,Indonesia,AP
+44,Iran,MEA
+45,Iraq,MEA
+46,Ireland,WE
+47,Israel,MEA
+48,Italy,WE
+49,Japan,AP
+50,Jordan,MEA
+51,Kazakhstan,AP
+52,Kenya,MEA
+53,Kuwait,MEA
+54,Laos,AP
+55,Latvia,EE
+56,Lebanon,MEA
+57,Lithuania,EE
+58,Malaysia,AP
+59,Mexico,LA
+61,Morocco,MEA
+62,Myanmar,AP
+63,Netherlands,WE
+64,New Zealand,AA
+65,Nigeria,MEA
+66,North Macedonia,EE
+67,Norway,WE
+68,Oman,MEA
+69,Pakistan,AP
+70,Panama,LA
+71,Paraguay,LA
+72,Peru,LA
+73,Philippines,AP
+74,Poland,EE
+75,Portugal,WE
+76,Qatar,MEA
+77,Romania,EE
+78,Russia,EE
+79,Saudi Arabia,MEA
+80,Serbia,EE
+81,Singapore,AP
+82,Slovakia,EE
+83,Slovenia,EE
+84,South Africa,MEA
+85,South Korea,AP
+86,Spain,WE
+87,Sri Lanka,AP
+88,Sweden,WE
+89,Switzerland,WE
+90,Taiwan,AP
+91,Tanzania,MEA
+92,Thailand,AP
+93,Tunisia,MEA
+94,Turkey,WE
+95,Turkmenistan,AP
+96,Uganda,MEA
+97,Ukraine,EE
+98,United Arab Emirates,MEA
+99,United Kingdom,WE
+100,Uruguay,LA
+101,USA,NOA
+102,Uzbekistan,AP
+103,Venezuela,LA
+104,Vietnam,AP

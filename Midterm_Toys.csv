@@ -1,0 +1,545 @@
+﻿Country_ID,Geography,Category,Data Type,Unit,Current Constant,Value
+3,Argentina,Action Figures and Accessories,Retail Value RSP,ARS million,Current Prices,2189
+3,Argentina,Arts and Crafts,Retail Value RSP,ARS million,Current Prices,3847.4
+3,Argentina,Baby and Infant,Retail Value RSP,ARS million,Current Prices,7313.1
+3,Argentina,Construction,Retail Value RSP,ARS million,Current Prices,1824.6
+3,Argentina,Dolls and Accessories,Retail Value RSP,ARS million,Current Prices,2707.5
+3,Argentina,Dress-Up and Role Play,Retail Value RSP,ARS million,Current Prices,1860.4
+3,Argentina,Games and Puzzles,Retail Value RSP,ARS million,Current Prices,4745.9
+3,Argentina,Model Vehicles,Retail Value RSP,ARS million,Current Prices,2666
+3,Argentina,Outdoor and Sports,Retail Value RSP,ARS million,Current Prices,2436.8
+3,Argentina,Plush,Retail Value RSP,ARS million,Current Prices,1833.6
+3,Argentina,Pre-School,Retail Value RSP,ARS million,Current Prices,1535.9
+3,Argentina,Remote Control Toys,Retail Value RSP,ARS million,Current Prices,503.1
+3,Argentina,Ride-On Vehicles,Retail Value RSP,ARS million,Current Prices,1519.4
+3,Argentina,Scientific/Educational,Retail Value RSP,ARS million,Current Prices,107.4
+3,Argentina,Other Traditional Toys and Games,Retail Value RSP,ARS million,Current Prices,550.3
+3,Argentina,Video Games Hardware,Retail Value RSP,ARS million,Current Prices,10042
+3,Argentina,Video Games Software,Retail Value RSP,ARS million,Current Prices,84016.2
+4,Australia,Action Figures and Accessories,Retail Value RSP,AUD million,Current Prices,88.7
+4,Australia,Arts and Crafts,Retail Value RSP,AUD million,Current Prices,77.9
+4,Australia,Baby and Infant,Retail Value RSP,AUD million,Current Prices,57.9
+4,Australia,Construction,Retail Value RSP,AUD million,Current Prices,261.1
+4,Australia,Dolls and Accessories,Retail Value RSP,AUD million,Current Prices,147
+4,Australia,Dress-Up and Role Play,Retail Value RSP,AUD million,Current Prices,42.6
+4,Australia,Games and Puzzles,Retail Value RSP,AUD million,Current Prices,92
+4,Australia,Model Vehicles,Retail Value RSP,AUD million,Current Prices,56.7
+4,Australia,Outdoor and Sports,Retail Value RSP,AUD million,Current Prices,209.2
+4,Australia,Plush,Retail Value RSP,AUD million,Current Prices,59.8
+4,Australia,Pre-School,Retail Value RSP,AUD million,Current Prices,142.8
+4,Australia,Remote Control Toys,Retail Value RSP,AUD million,Current Prices,58.5
+4,Australia,Ride-On Vehicles,Retail Value RSP,AUD million,Current Prices,56.7
+4,Australia,Scientific/Educational,Retail Value RSP,AUD million,Current Prices,103.1
+4,Australia,Other Traditional Toys and Games,Retail Value RSP,AUD million,Current Prices,86.5
+4,Australia,Video Games Hardware,Retail Value RSP,AUD million,Current Prices,1257.2
+4,Australia,Video Games Software,Retail Value RSP,AUD million,Current Prices,3571.1
+13,Brazil,Action Figures and Accessories,Retail Value RSP,BRL million,Current Prices,1920.6
+13,Brazil,Arts and Crafts,Retail Value RSP,BRL million,Current Prices,110.9
+13,Brazil,Baby and Infant,Retail Value RSP,BRL million,Current Prices,1593.6
+13,Brazil,Construction,Retail Value RSP,BRL million,Current Prices,558.6
+13,Brazil,Dolls and Accessories,Retail Value RSP,BRL million,Current Prices,3544.2
+13,Brazil,Dress-Up and Role Play,Retail Value RSP,BRL million,Current Prices,104.3
+13,Brazil,Games and Puzzles,Retail Value RSP,BRL million,Current Prices,1522.9
+13,Brazil,Model Vehicles,Retail Value RSP,BRL million,Current Prices,1622.5
+13,Brazil,Outdoor and Sports,Retail Value RSP,BRL million,Current Prices,390.3
+13,Brazil,Plush,Retail Value RSP,BRL million,Current Prices,210.1
+13,Brazil,Pre-School,Retail Value RSP,BRL million,Current Prices,871
+13,Brazil,Remote Control Toys,Retail Value RSP,BRL million,Current Prices,233.5
+13,Brazil,Ride-On Vehicles,Retail Value RSP,BRL million,Current Prices,335.2
+13,Brazil,Scientific/Educational,Retail Value RSP,BRL million,Current Prices,79.5
+13,Brazil,Other Traditional Toys and Games,Retail Value RSP,BRL million,Current Prices,101.6
+13,Brazil,Video Games Hardware,Retail Value RSP,BRL million,Current Prices,1577.5
+13,Brazil,Video Games Software,Retail Value RSP,BRL million,Current Prices,9768
+17,Canada,Action Figures and Accessories,Retail Value RSP,CAD million,Current Prices,158.1
+17,Canada,Arts and Crafts,Retail Value RSP,CAD million,Current Prices,244.8
+17,Canada,Baby and Infant,Retail Value RSP,CAD million,Current Prices,125.3
+17,Canada,Construction,Retail Value RSP,CAD million,Current Prices,223.8
+17,Canada,Dolls and Accessories,Retail Value RSP,CAD million,Current Prices,186.7
+17,Canada,Dress-Up and Role Play,Retail Value RSP,CAD million,Current Prices,105.7
+17,Canada,Games and Puzzles,Retail Value RSP,CAD million,Current Prices,412.5
+17,Canada,Model Vehicles,Retail Value RSP,CAD million,Current Prices,158.3
+17,Canada,Outdoor and Sports,Retail Value RSP,CAD million,Current Prices,265.6
+17,Canada,Plush,Retail Value RSP,CAD million,Current Prices,122.1
+17,Canada,Pre-School,Retail Value RSP,CAD million,Current Prices,180.1
+17,Canada,Remote Control Toys,Retail Value RSP,CAD million,Current Prices,137.7
+17,Canada,Ride-On Vehicles,Retail Value RSP,CAD million,Current Prices,71
+17,Canada,Scientific/Educational,Retail Value RSP,CAD million,Current Prices,187
+17,Canada,Other Traditional Toys and Games,Retail Value RSP,CAD million,Current Prices,73.3
+17,Canada,Video Games Hardware,Retail Value RSP,CAD million,Current Prices,842.6
+17,Canada,Video Games Software,Retail Value RSP,CAD million,Current Prices,3710
+19,China,Action Figures and Accessories,Retail Value RSP,CNY million,Current Prices,3809.9
+19,China,Arts and Crafts,Retail Value RSP,CNY million,Current Prices,3669.3
+19,China,Baby and Infant,Retail Value RSP,CNY million,Current Prices,5846.1
+19,China,Construction,Retail Value RSP,CNY million,Current Prices,13172.5
+19,China,Dolls and Accessories,Retail Value RSP,CNY million,Current Prices,8803.9
+19,China,Dress-Up and Role Play,Retail Value RSP,CNY million,Current Prices,5714.1
+19,China,Games and Puzzles,Retail Value RSP,CNY million,Current Prices,9017.8
+19,China,Model Vehicles,Retail Value RSP,CNY million,Current Prices,5418.2
+19,China,Outdoor and Sports,Retail Value RSP,CNY million,Current Prices,2713.5
+19,China,Plush,Retail Value RSP,CNY million,Current Prices,4782.3
+19,China,Pre-School,Retail Value RSP,CNY million,Current Prices,5149.8
+19,China,Remote Control Toys,Retail Value RSP,CNY million,Current Prices,6486.9
+19,China,Ride-On Vehicles,Retail Value RSP,CNY million,Current Prices,6377.7
+19,China,Scientific/Educational,Retail Value RSP,CNY million,Current Prices,2378.6
+19,China,Other Traditional Toys and Games,Retail Value RSP,CNY million,Current Prices,1939.1
+19,China,Video Games Hardware,Retail Value RSP,CNY million,Current Prices,5602.4
+19,China,Video Games Software,Retail Value RSP,CNY million,Current Prices,300479.6
+33,France,Action Figures and Accessories,Retail Value RSP,EUR million,Current Prices,241.6
+33,France,Arts and Crafts,Retail Value RSP,EUR million,Current Prices,170.9
+33,France,Baby and Infant,Retail Value RSP,EUR million,Current Prices,389
+33,France,Construction,Retail Value RSP,EUR million,Current Prices,492.8
+33,France,Dolls and Accessories,Retail Value RSP,EUR million,Current Prices,378.5
+33,France,Dress-Up and Role Play,Retail Value RSP,EUR million,Current Prices,101.1
+33,France,Games and Puzzles,Retail Value RSP,EUR million,Current Prices,617.3
+33,France,Model Vehicles,Retail Value RSP,EUR million,Current Prices,97.5
+33,France,Outdoor and Sports,Retail Value RSP,EUR million,Current Prices,264.3
+33,France,Plush,Retail Value RSP,EUR million,Current Prices,115.3
+33,France,Pre-School,Retail Value RSP,EUR million,Current Prices,205.3
+33,France,Remote Control Toys,Retail Value RSP,EUR million,Current Prices,122.5
+33,France,Ride-On Vehicles,Retail Value RSP,EUR million,Current Prices,43.5
+33,France,Scientific/Educational,Retail Value RSP,EUR million,Current Prices,64.8
+33,France,Other Traditional Toys and Games,Retail Value RSP,EUR million,Current Prices,125.2
+33,France,Video Games Hardware,Retail Value RSP,EUR million,Current Prices,912.2
+33,France,Video Games Software,Retail Value RSP,EUR million,Current Prices,2839.6
+35,Germany,Action Figures and Accessories,Retail Value RSP,EUR million,Current Prices,439.7
+35,Germany,Arts and Crafts,Retail Value RSP,EUR million,Current Prices,96.6
+35,Germany,Baby and Infant,Retail Value RSP,EUR million,Current Prices,194.8
+35,Germany,Construction,Retail Value RSP,EUR million,Current Prices,865.8
+35,Germany,Dolls and Accessories,Retail Value RSP,EUR million,Current Prices,263.9
+35,Germany,Dress-Up and Role Play,Retail Value RSP,EUR million,Current Prices,41.8
+35,Germany,Games and Puzzles,Retail Value RSP,EUR million,Current Prices,627.5
+35,Germany,Model Vehicles,Retail Value RSP,EUR million,Current Prices,214.3
+35,Germany,Outdoor and Sports,Retail Value RSP,EUR million,Current Prices,223.5
+35,Germany,Plush,Retail Value RSP,EUR million,Current Prices,223.8
+35,Germany,Pre-School,Retail Value RSP,EUR million,Current Prices,374.7
+35,Germany,Remote Control Toys,Retail Value RSP,EUR million,Current Prices,359.7
+35,Germany,Ride-On Vehicles,Retail Value RSP,EUR million,Current Prices,124.3
+35,Germany,Scientific/Educational,Retail Value RSP,EUR million,Current Prices,57.2
+35,Germany,Other Traditional Toys and Games,Retail Value RSP,EUR million,Current Prices,93.6
+35,Germany,Video Games Hardware,Retail Value RSP,EUR million,Current Prices,1371.4
+35,Germany,Video Games Software,Retail Value RSP,EUR million,Current Prices,2844.7
+40,Hong Kong - China,Action Figures and Accessories,Retail Value RSP,HKD million,Current Prices,406.6
+40,Hong Kong - China,Arts and Crafts,Retail Value RSP,HKD million,Current Prices,170.8
+40,Hong Kong - China,Baby and Infant,Retail Value RSP,HKD million,Current Prices,138.1
+40,Hong Kong - China,Construction,Retail Value RSP,HKD million,Current Prices,720.5
+40,Hong Kong - China,Dolls and Accessories,Retail Value RSP,HKD million,Current Prices,49.4
+40,Hong Kong - China,Dress-Up and Role Play,Retail Value RSP,HKD million,Current Prices,104.2
+40,Hong Kong - China,Games and Puzzles,Retail Value RSP,HKD million,Current Prices,185
+40,Hong Kong - China,Model Vehicles,Retail Value RSP,HKD million,Current Prices,274
+40,Hong Kong - China,Outdoor and Sports,Retail Value RSP,HKD million,Current Prices,68.5
+40,Hong Kong - China,Plush,Retail Value RSP,HKD million,Current Prices,50.7
+40,Hong Kong - China,Pre-School,Retail Value RSP,HKD million,Current Prices,192.1
+40,Hong Kong - China,Remote Control Toys,Retail Value RSP,HKD million,Current Prices,173.1
+40,Hong Kong - China,Ride-On Vehicles,Retail Value RSP,HKD million,Current Prices,41.9
+40,Hong Kong - China,Scientific/Educational,Retail Value RSP,HKD million,Current Prices,129.5
+40,Hong Kong - China,Other Traditional Toys and Games,Retail Value RSP,HKD million,Current Prices,62.3
+40,Hong Kong - China,Video Games Hardware,Retail Value RSP,HKD million,Current Prices,1251.9
+40,Hong Kong - China,Video Games Software,Retail Value RSP,HKD million,Current Prices,4627.3
+42,India,Action Figures and Accessories,Retail Value RSP,INR million,Current Prices,654.2
+42,India,Arts and Crafts,Retail Value RSP,INR million,Current Prices,993.2
+42,India,Baby and Infant,Retail Value RSP,INR million,Current Prices,7201.2
+42,India,Construction,Retail Value RSP,INR million,Current Prices,1428.6
+42,India,Dolls and Accessories,Retail Value RSP,INR million,Current Prices,8802.4
+42,India,Dress-Up and Role Play,Retail Value RSP,INR million,Current Prices,139.1
+42,India,Games and Puzzles,Retail Value RSP,INR million,Current Prices,13944.9
+42,India,Model Vehicles,Retail Value RSP,INR million,Current Prices,9299.3
+42,India,Outdoor and Sports,Retail Value RSP,INR million,Current Prices,1160.8
+42,India,Plush,Retail Value RSP,INR million,Current Prices,1766.6
+42,India,Pre-School,Retail Value RSP,INR million,Current Prices,3335.6
+42,India,Remote Control Toys,Retail Value RSP,INR million,Current Prices,1501.8
+42,India,Ride-On Vehicles,Retail Value RSP,INR million,Current Prices,506.5
+42,India,Scientific/Educational,Retail Value RSP,INR million,Current Prices,238.8
+42,India,Other Traditional Toys and Games,Retail Value RSP,INR million,Current Prices,309.6
+42,India,Video Games Hardware,Retail Value RSP,INR million,Current Prices,6460.9
+42,India,Video Games Software,Retail Value RSP,INR million,Current Prices,102960.5
+43,Indonesia,Action Figures and Accessories,Retail Value RSP,IDR billion,Current Prices,625.8
+43,Indonesia,Arts and Crafts,Retail Value RSP,IDR billion,Current Prices,331.1
+43,Indonesia,Baby and Infant,Retail Value RSP,IDR billion,Current Prices,348.1
+43,Indonesia,Construction,Retail Value RSP,IDR billion,Current Prices,1067.4
+43,Indonesia,Dolls and Accessories,Retail Value RSP,IDR billion,Current Prices,296.1
+43,Indonesia,Dress-Up and Role Play,Retail Value RSP,IDR billion,Current Prices,442.5
+43,Indonesia,Games and Puzzles,Retail Value RSP,IDR billion,Current Prices,444.8
+43,Indonesia,Model Vehicles,Retail Value RSP,IDR billion,Current Prices,488
+43,Indonesia,Outdoor and Sports,Retail Value RSP,IDR billion,Current Prices,201
+43,Indonesia,Plush,Retail Value RSP,IDR billion,Current Prices,513.9
+43,Indonesia,Pre-School,Retail Value RSP,IDR billion,Current Prices,286.4
+43,Indonesia,Remote Control Toys,Retail Value RSP,IDR billion,Current Prices,601.6
+43,Indonesia,Ride-On Vehicles,Retail Value RSP,IDR billion,Current Prices,158.6
+43,Indonesia,Scientific/Educational,Retail Value RSP,IDR billion,Current Prices,139.1
+43,Indonesia,Other Traditional Toys and Games,Retail Value RSP,IDR billion,Current Prices,131
+43,Indonesia,Video Games Hardware,Retail Value RSP,IDR billion,Current Prices,489.7
+43,Indonesia,Video Games Software,Retail Value RSP,IDR billion,Current Prices,24663.6
+48,Italy,Action Figures and Accessories,Retail Value RSP,EUR million,Current Prices,98
+48,Italy,Arts and Crafts,Retail Value RSP,EUR million,Current Prices,90.1
+48,Italy,Baby and Infant,Retail Value RSP,EUR million,Current Prices,74.9
+48,Italy,Construction,Retail Value RSP,EUR million,Current Prices,287.4
+48,Italy,Dolls and Accessories,Retail Value RSP,EUR million,Current Prices,131
+48,Italy,Dress-Up and Role Play,Retail Value RSP,EUR million,Current Prices,73.2
+48,Italy,Games and Puzzles,Retail Value RSP,EUR million,Current Prices,203.4
+48,Italy,Model Vehicles,Retail Value RSP,EUR million,Current Prices,52.6
+48,Italy,Outdoor and Sports,Retail Value RSP,EUR million,Current Prices,105.6
+48,Italy,Plush,Retail Value RSP,EUR million,Current Prices,46.6
+48,Italy,Pre-School,Retail Value RSP,EUR million,Current Prices,85.8
+48,Italy,Remote Control Toys,Retail Value RSP,EUR million,Current Prices,45.6
+48,Italy,Ride-On Vehicles,Retail Value RSP,EUR million,Current Prices,38.7
+48,Italy,Scientific/Educational,Retail Value RSP,EUR million,Current Prices,39
+48,Italy,Other Traditional Toys and Games,Retail Value RSP,EUR million,Current Prices,44
+48,Italy,Video Games Hardware,Retail Value RSP,EUR million,Current Prices,431.8
+48,Italy,Video Games Software,Retail Value RSP,EUR million,Current Prices,2102
+49,Japan,Action Figures and Accessories,Retail Value RSP,JPY billion,Current Prices,45.6
+49,Japan,Arts and Crafts,Retail Value RSP,JPY billion,Current Prices,24.9
+49,Japan,Baby and Infant,Retail Value RSP,JPY billion,Current Prices,23.2
+49,Japan,Construction,Retail Value RSP,JPY billion,Current Prices,59.8
+49,Japan,Dolls and Accessories,Retail Value RSP,JPY billion,Current Prices,32.1
+49,Japan,Dress-Up and Role Play,Retail Value RSP,JPY billion,Current Prices,33.9
+49,Japan,Games and Puzzles,Retail Value RSP,JPY billion,Current Prices,202.6
+49,Japan,Model Vehicles,Retail Value RSP,JPY billion,Current Prices,50.7
+49,Japan,Outdoor and Sports,Retail Value RSP,JPY billion,Current Prices,13.5
+49,Japan,Plush,Retail Value RSP,JPY billion,Current Prices,17.8
+49,Japan,Pre-School,Retail Value RSP,JPY billion,Current Prices,27.5
+49,Japan,Remote Control Toys,Retail Value RSP,JPY billion,Current Prices,38.4
+49,Japan,Ride-On Vehicles,Retail Value RSP,JPY billion,Current Prices,16.3
+49,Japan,Scientific/Educational,Retail Value RSP,JPY billion,Current Prices,51.2
+49,Japan,Other Traditional Toys and Games,Retail Value RSP,JPY billion,Current Prices,32.8
+49,Japan,Video Games Hardware,Retail Value RSP,JPY billion,Current Prices,254.6
+49,Japan,Video Games Software,Retail Value RSP,JPY billion,Current Prices,1539.2
+58,Malaysia,Action Figures and Accessories,Retail Value RSP,MYR million,Current Prices,106.9
+58,Malaysia,Arts and Crafts,Retail Value RSP,MYR million,Current Prices,48.1
+58,Malaysia,Baby and Infant,Retail Value RSP,MYR million,Current Prices,55.5
+58,Malaysia,Construction,Retail Value RSP,MYR million,Current Prices,170.6
+58,Malaysia,Dolls and Accessories,Retail Value RSP,MYR million,Current Prices,60.1
+58,Malaysia,Dress-Up and Role Play,Retail Value RSP,MYR million,Current Prices,36.8
+58,Malaysia,Games and Puzzles,Retail Value RSP,MYR million,Current Prices,71.3
+58,Malaysia,Model Vehicles,Retail Value RSP,MYR million,Current Prices,73.6
+58,Malaysia,Outdoor and Sports,Retail Value RSP,MYR million,Current Prices,79.5
+58,Malaysia,Plush,Retail Value RSP,MYR million,Current Prices,74.9
+58,Malaysia,Pre-School,Retail Value RSP,MYR million,Current Prices,67.7
+58,Malaysia,Remote Control Toys,Retail Value RSP,MYR million,Current Prices,36.3
+58,Malaysia,Ride-On Vehicles,Retail Value RSP,MYR million,Current Prices,11.8
+58,Malaysia,Scientific/Educational,Retail Value RSP,MYR million,Current Prices,80
+58,Malaysia,Other Traditional Toys and Games,Retail Value RSP,MYR million,Current Prices,14
+58,Malaysia,Video Games Hardware,Retail Value RSP,MYR million,Current Prices,223.5
+58,Malaysia,Video Games Software,Retail Value RSP,MYR million,Current Prices,3859
+59,Mexico,Action Figures and Accessories,Retail Value RSP,MXN million,Current Prices,3271.6
+59,Mexico,Arts and Crafts,Retail Value RSP,MXN million,Current Prices,1705.8
+59,Mexico,Baby and Infant,Retail Value RSP,MXN million,Current Prices,1831.8
+59,Mexico,Construction,Retail Value RSP,MXN million,Current Prices,4702
+59,Mexico,Dolls and Accessories,Retail Value RSP,MXN million,Current Prices,4189.7
+59,Mexico,Dress-Up and Role Play,Retail Value RSP,MXN million,Current Prices,849.8
+59,Mexico,Games and Puzzles,Retail Value RSP,MXN million,Current Prices,2953.8
+59,Mexico,Model Vehicles,Retail Value RSP,MXN million,Current Prices,2182
+59,Mexico,Outdoor and Sports,Retail Value RSP,MXN million,Current Prices,1024.6
+59,Mexico,Plush,Retail Value RSP,MXN million,Current Prices,2134.1
+59,Mexico,Pre-School,Retail Value RSP,MXN million,Current Prices,1812.9
+59,Mexico,Remote Control Toys,Retail Value RSP,MXN million,Current Prices,1349.4
+59,Mexico,Ride-On Vehicles,Retail Value RSP,MXN million,Current Prices,1477
+59,Mexico,Scientific/Educational,Retail Value RSP,MXN million,Current Prices,593.6
+59,Mexico,Other Traditional Toys and Games,Retail Value RSP,MXN million,Current Prices,897.5
+59,Mexico,Video Games Hardware,Retail Value RSP,MXN million,Current Prices,7073.8
+59,Mexico,Video Games Software,Retail Value RSP,MXN million,Current Prices,34041.2
+63,Netherlands,Action Figures and Accessories,Retail Value RSP,EUR million,Current Prices,56.8
+63,Netherlands,Arts and Crafts,Retail Value RSP,EUR million,Current Prices,44.2
+63,Netherlands,Baby and Infant,Retail Value RSP,EUR million,Current Prices,103.1
+63,Netherlands,Construction,Retail Value RSP,EUR million,Current Prices,200.3
+63,Netherlands,Dolls and Accessories,Retail Value RSP,EUR million,Current Prices,52.3
+63,Netherlands,Dress-Up and Role Play,Retail Value RSP,EUR million,Current Prices,5.8
+63,Netherlands,Games and Puzzles,Retail Value RSP,EUR million,Current Prices,213.1
+63,Netherlands,Model Vehicles,Retail Value RSP,EUR million,Current Prices,41.8
+63,Netherlands,Outdoor and Sports,Retail Value RSP,EUR million,Current Prices,87.5
+63,Netherlands,Plush,Retail Value RSP,EUR million,Current Prices,51.7
+63,Netherlands,Pre-School,Retail Value RSP,EUR million,Current Prices,63.3
+63,Netherlands,Remote Control Toys,Retail Value RSP,EUR million,Current Prices,33.9
+63,Netherlands,Ride-On Vehicles,Retail Value RSP,EUR million,Current Prices,11
+63,Netherlands,Scientific/Educational,Retail Value RSP,EUR million,Current Prices,23
+63,Netherlands,Other Traditional Toys and Games,Retail Value RSP,EUR million,Current Prices,13.5
+63,Netherlands,Video Games Hardware,Retail Value RSP,EUR million,Current Prices,262.7
+63,Netherlands,Video Games Software,Retail Value RSP,EUR million,Current Prices,920.1
+73,Philippines,Action Figures and Accessories,Retail Value RSP,PHP million,Current Prices,2844.6
+73,Philippines,Arts and Crafts,Retail Value RSP,PHP million,Current Prices,908.1
+73,Philippines,Baby and Infant,Retail Value RSP,PHP million,Current Prices,655.9
+73,Philippines,Construction,Retail Value RSP,PHP million,Current Prices,2137.8
+73,Philippines,Dolls and Accessories,Retail Value RSP,PHP million,Current Prices,3188.3
+73,Philippines,Dress-Up and Role Play,Retail Value RSP,PHP million,Current Prices,670.8
+73,Philippines,Games and Puzzles,Retail Value RSP,PHP million,Current Prices,1189.3
+73,Philippines,Model Vehicles,Retail Value RSP,PHP million,Current Prices,1849.2
+73,Philippines,Outdoor and Sports,Retail Value RSP,PHP million,Current Prices,438.3
+73,Philippines,Plush,Retail Value RSP,PHP million,Current Prices,2356.7
+73,Philippines,Pre-School,Retail Value RSP,PHP million,Current Prices,1075.4
+73,Philippines,Remote Control Toys,Retail Value RSP,PHP million,Current Prices,1272.8
+73,Philippines,Ride-On Vehicles,Retail Value RSP,PHP million,Current Prices,553
+73,Philippines,Scientific/Educational,Retail Value RSP,PHP million,Current Prices,695.1
+73,Philippines,Other Traditional Toys and Games,Retail Value RSP,PHP million,Current Prices,813.6
+73,Philippines,Video Games Hardware,Retail Value RSP,PHP million,Current Prices,430.3
+73,Philippines,Video Games Software,Retail Value RSP,PHP million,Current Prices,31914.5
+74,Poland,Action Figures and Accessories,Retail Value RSP,PLN million,Current Prices,119.5
+74,Poland,Arts and Crafts,Retail Value RSP,PLN million,Current Prices,211
+74,Poland,Baby and Infant,Retail Value RSP,PLN million,Current Prices,222.8
+74,Poland,Construction,Retail Value RSP,PLN million,Current Prices,752
+74,Poland,Dolls and Accessories,Retail Value RSP,PLN million,Current Prices,352.7
+74,Poland,Dress-Up and Role Play,Retail Value RSP,PLN million,Current Prices,42.1
+74,Poland,Games and Puzzles,Retail Value RSP,PLN million,Current Prices,546.1
+74,Poland,Model Vehicles,Retail Value RSP,PLN million,Current Prices,197.1
+74,Poland,Outdoor and Sports,Retail Value RSP,PLN million,Current Prices,166.8
+74,Poland,Plush,Retail Value RSP,PLN million,Current Prices,162.7
+74,Poland,Pre-School,Retail Value RSP,PLN million,Current Prices,160
+74,Poland,Remote Control Toys,Retail Value RSP,PLN million,Current Prices,76.7
+74,Poland,Ride-On Vehicles,Retail Value RSP,PLN million,Current Prices,73.4
+74,Poland,Scientific/Educational,Retail Value RSP,PLN million,Current Prices,193.8
+74,Poland,Other Traditional Toys and Games,Retail Value RSP,PLN million,Current Prices,49
+74,Poland,Video Games Hardware,Retail Value RSP,PLN million,Current Prices,1049.2
+74,Poland,Video Games Software,Retail Value RSP,PLN million,Current Prices,3242.9
+77,Romania,Action Figures and Accessories,Retail Value RSP,RON million,Current Prices,65.5
+77,Romania,Arts and Crafts,Retail Value RSP,RON million,Current Prices,53.9
+77,Romania,Baby and Infant,Retail Value RSP,RON million,Current Prices,76.6
+77,Romania,Construction,Retail Value RSP,RON million,Current Prices,216.3
+77,Romania,Dolls and Accessories,Retail Value RSP,RON million,Current Prices,82.4
+77,Romania,Dress-Up and Role Play,Retail Value RSP,RON million,Current Prices,20
+77,Romania,Games and Puzzles,Retail Value RSP,RON million,Current Prices,122.5
+77,Romania,Model Vehicles,Retail Value RSP,RON million,Current Prices,76.9
+77,Romania,Outdoor and Sports,Retail Value RSP,RON million,Current Prices,40.4
+77,Romania,Plush,Retail Value RSP,RON million,Current Prices,91.5
+77,Romania,Pre-School,Retail Value RSP,RON million,Current Prices,42.8
+77,Romania,Remote Control Toys,Retail Value RSP,RON million,Current Prices,66.2
+77,Romania,Ride-On Vehicles,Retail Value RSP,RON million,Current Prices,31.9
+77,Romania,Scientific/Educational,Retail Value RSP,RON million,Current Prices,123
+77,Romania,Other Traditional Toys and Games,Retail Value RSP,RON million,Current Prices,40
+77,Romania,Video Games Hardware,Retail Value RSP,RON million,Current Prices,196.1
+77,Romania,Video Games Software,Retail Value RSP,RON million,Current Prices,1266
+78,Russia,Action Figures and Accessories,Retail Value RSP,RUB million,Current Prices,7068.1
+78,Russia,Arts and Crafts,Retail Value RSP,RUB million,Current Prices,11856.9
+78,Russia,Baby and Infant,Retail Value RSP,RUB million,Current Prices,4261.7
+78,Russia,Construction,Retail Value RSP,RUB million,Current Prices,40592.4
+78,Russia,Dolls and Accessories,Retail Value RSP,RUB million,Current Prices,7098.2
+78,Russia,Dress-Up and Role Play,Retail Value RSP,RUB million,Current Prices,1105.7
+78,Russia,Games and Puzzles,Retail Value RSP,RUB million,Current Prices,22076.5
+78,Russia,Model Vehicles,Retail Value RSP,RUB million,Current Prices,7584.2
+78,Russia,Outdoor and Sports,Retail Value RSP,RUB million,Current Prices,9845.1
+78,Russia,Plush,Retail Value RSP,RUB million,Current Prices,3927.4
+78,Russia,Pre-School,Retail Value RSP,RUB million,Current Prices,11116.3
+78,Russia,Remote Control Toys,Retail Value RSP,RUB million,Current Prices,2511.5
+78,Russia,Ride-On Vehicles,Retail Value RSP,RUB million,Current Prices,4123.7
+78,Russia,Scientific/Educational,Retail Value RSP,RUB million,Current Prices,7626.8
+78,Russia,Other Traditional Toys and Games,Retail Value RSP,RUB million,Current Prices,4057.2
+78,Russia,Video Games Hardware,Retail Value RSP,RUB million,Current Prices,42645.6
+78,Russia,Video Games Software,Retail Value RSP,RUB million,Current Prices,229841.5
+81,Singapore,Action Figures and Accessories,Retail Value RSP,SGD million,Current Prices,43.7
+81,Singapore,Arts and Crafts,Retail Value RSP,SGD million,Current Prices,8.2
+81,Singapore,Baby and Infant,Retail Value RSP,SGD million,Current Prices,10.2
+81,Singapore,Construction,Retail Value RSP,SGD million,Current Prices,71.2
+81,Singapore,Dolls and Accessories,Retail Value RSP,SGD million,Current Prices,32.2
+81,Singapore,Dress-Up and Role Play,Retail Value RSP,SGD million,Current Prices,3.1
+81,Singapore,Games and Puzzles,Retail Value RSP,SGD million,Current Prices,26.8
+81,Singapore,Model Vehicles,Retail Value RSP,SGD million,Current Prices,23.7
+81,Singapore,Outdoor and Sports,Retail Value RSP,SGD million,Current Prices,12.8
+81,Singapore,Plush,Retail Value RSP,SGD million,Current Prices,17.4
+81,Singapore,Pre-School,Retail Value RSP,SGD million,Current Prices,15.2
+81,Singapore,Remote Control Toys,Retail Value RSP,SGD million,Current Prices,11
+81,Singapore,Ride-On Vehicles,Retail Value RSP,SGD million,Current Prices,5
+81,Singapore,Scientific/Educational,Retail Value RSP,SGD million,Current Prices,4.6
+81,Singapore,Other Traditional Toys and Games,Retail Value RSP,SGD million,Current Prices,15.1
+81,Singapore,Video Games Hardware,Retail Value RSP,SGD million,Current Prices,93
+81,Singapore,Video Games Software,Retail Value RSP,SGD million,Current Prices,596.6
+84,South Africa,Action Figures and Accessories,Retail Value RSP,ZAR million,Current Prices,334.8
+84,South Africa,Arts and Crafts,Retail Value RSP,ZAR million,Current Prices,192.7
+84,South Africa,Baby and Infant,Retail Value RSP,ZAR million,Current Prices,358.1
+84,South Africa,Construction,Retail Value RSP,ZAR million,Current Prices,715.6
+84,South Africa,Dolls and Accessories,Retail Value RSP,ZAR million,Current Prices,389.8
+84,South Africa,Dress-Up and Role Play,Retail Value RSP,ZAR million,Current Prices,155.3
+84,South Africa,Games and Puzzles,Retail Value RSP,ZAR million,Current Prices,414.9
+84,South Africa,Model Vehicles,Retail Value RSP,ZAR million,Current Prices,157.4
+84,South Africa,Outdoor and Sports,Retail Value RSP,ZAR million,Current Prices,447.5
+84,South Africa,Plush,Retail Value RSP,ZAR million,Current Prices,181.1
+84,South Africa,Pre-School,Retail Value RSP,ZAR million,Current Prices,327.7
+84,South Africa,Remote Control Toys,Retail Value RSP,ZAR million,Current Prices,239.6
+84,South Africa,Ride-On Vehicles,Retail Value RSP,ZAR million,Current Prices,70.8
+84,South Africa,Scientific/Educational,Retail Value RSP,ZAR million,Current Prices,158.9
+84,South Africa,Other Traditional Toys and Games,Retail Value RSP,ZAR million,Current Prices,74.5
+84,South Africa,Video Games Hardware,Retail Value RSP,ZAR million,Current Prices,1759.5
+84,South Africa,Video Games Software,Retail Value RSP,ZAR million,Current Prices,7302.2
+85,South Korea,Action Figures and Accessories,Retail Value RSP,KRW billion,Current Prices,424.5
+85,South Korea,Arts and Crafts,Retail Value RSP,KRW billion,Current Prices,35.8
+85,South Korea,Baby and Infant,Retail Value RSP,KRW billion,Current Prices,62.8
+85,South Korea,Construction,Retail Value RSP,KRW billion,Current Prices,341.2
+85,South Korea,Dolls and Accessories,Retail Value RSP,KRW billion,Current Prices,88.4
+85,South Korea,Dress-Up and Role Play,Retail Value RSP,KRW billion,Current Prices,82.1
+85,South Korea,Games and Puzzles,Retail Value RSP,KRW billion,Current Prices,84
+85,South Korea,Model Vehicles,Retail Value RSP,KRW billion,Current Prices,29.3
+85,South Korea,Outdoor and Sports,Retail Value RSP,KRW billion,Current Prices,15.5
+85,South Korea,Plush,Retail Value RSP,KRW billion,Current Prices,98.8
+85,South Korea,Pre-School,Retail Value RSP,KRW billion,Current Prices,97.6
+85,South Korea,Remote Control Toys,Retail Value RSP,KRW billion,Current Prices,47.7
+85,South Korea,Ride-On Vehicles,Retail Value RSP,KRW billion,Current Prices,59.3
+85,South Korea,Scientific/Educational,Retail Value RSP,KRW billion,Current Prices,79.4
+85,South Korea,Other Traditional Toys and Games,Retail Value RSP,KRW billion,Current Prices,41
+85,South Korea,Video Games Hardware,Retail Value RSP,KRW billion,Current Prices,413.5
+85,South Korea,Video Games Software,Retail Value RSP,KRW billion,Current Prices,9448.4
+86,Spain,Action Figures and Accessories,Retail Value RSP,EUR million,Current Prices,120.7
+86,Spain,Arts and Crafts,Retail Value RSP,EUR million,Current Prices,45.9
+86,Spain,Baby and Infant,Retail Value RSP,EUR million,Current Prices,84.5
+86,Spain,Construction,Retail Value RSP,EUR million,Current Prices,98.4
+86,Spain,Dolls and Accessories,Retail Value RSP,EUR million,Current Prices,251
+86,Spain,Dress-Up and Role Play,Retail Value RSP,EUR million,Current Prices,23.9
+86,Spain,Games and Puzzles,Retail Value RSP,EUR million,Current Prices,192.8
+86,Spain,Model Vehicles,Retail Value RSP,EUR million,Current Prices,71.3
+86,Spain,Outdoor and Sports,Retail Value RSP,EUR million,Current Prices,101.8
+86,Spain,Plush,Retail Value RSP,EUR million,Current Prices,54.8
+86,Spain,Pre-School,Retail Value RSP,EUR million,Current Prices,76.1
+86,Spain,Remote Control Toys,Retail Value RSP,EUR million,Current Prices,32.5
+86,Spain,Ride-On Vehicles,Retail Value RSP,EUR million,Current Prices,64
+86,Spain,Scientific/Educational,Retail Value RSP,EUR million,Current Prices,52.2
+86,Spain,Other Traditional Toys and Games,Retail Value RSP,EUR million,Current Prices,53
+86,Spain,Video Games Hardware,Retail Value RSP,EUR million,Current Prices,447.2
+86,Spain,Video Games Software,Retail Value RSP,EUR million,Current Prices,1396.5
+88,Sweden,Action Figures and Accessories,Retail Value RSP,SEK million,Current Prices,291.2
+88,Sweden,Arts and Crafts,Retail Value RSP,SEK million,Current Prices,207.1
+88,Sweden,Baby and Infant,Retail Value RSP,SEK million,Current Prices,272.2
+88,Sweden,Construction,Retail Value RSP,SEK million,Current Prices,1208.9
+88,Sweden,Dolls and Accessories,Retail Value RSP,SEK million,Current Prices,258.8
+88,Sweden,Dress-Up and Role Play,Retail Value RSP,SEK million,Current Prices,53.1
+88,Sweden,Games and Puzzles,Retail Value RSP,SEK million,Current Prices,640.6
+88,Sweden,Model Vehicles,Retail Value RSP,SEK million,Current Prices,206.8
+88,Sweden,Outdoor and Sports,Retail Value RSP,SEK million,Current Prices,390.1
+88,Sweden,Plush,Retail Value RSP,SEK million,Current Prices,118.8
+88,Sweden,Pre-School,Retail Value RSP,SEK million,Current Prices,139.3
+88,Sweden,Remote Control Toys,Retail Value RSP,SEK million,Current Prices,86.5
+88,Sweden,Ride-On Vehicles,Retail Value RSP,SEK million,Current Prices,87.6
+88,Sweden,Scientific/Educational,Retail Value RSP,SEK million,Current Prices,93.1
+88,Sweden,Other Traditional Toys and Games,Retail Value RSP,SEK million,Current Prices,88.2
+88,Sweden,Video Games Hardware,Retail Value RSP,SEK million,Current Prices,2155.7
+88,Sweden,Video Games Software,Retail Value RSP,SEK million,Current Prices,7896.7
+89,Switzerland,Action Figures and Accessories,Retail Value RSP,CHF million,Current Prices,13.2
+89,Switzerland,Arts and Crafts,Retail Value RSP,CHF million,Current Prices,26.4
+89,Switzerland,Baby and Infant,Retail Value RSP,CHF million,Current Prices,66.9
+89,Switzerland,Construction,Retail Value RSP,CHF million,Current Prices,142.3
+89,Switzerland,Dolls and Accessories,Retail Value RSP,CHF million,Current Prices,45.3
+89,Switzerland,Dress-Up and Role Play,Retail Value RSP,CHF million,Current Prices,8.8
+89,Switzerland,Games and Puzzles,Retail Value RSP,CHF million,Current Prices,81.5
+89,Switzerland,Model Vehicles,Retail Value RSP,CHF million,Current Prices,20.1
+89,Switzerland,Outdoor and Sports,Retail Value RSP,CHF million,Current Prices,63.9
+89,Switzerland,Plush,Retail Value RSP,CHF million,Current Prices,26
+89,Switzerland,Pre-School,Retail Value RSP,CHF million,Current Prices,44.5
+89,Switzerland,Remote Control Toys,Retail Value RSP,CHF million,Current Prices,34
+89,Switzerland,Ride-On Vehicles,Retail Value RSP,CHF million,Current Prices,17.9
+89,Switzerland,Scientific/Educational,Retail Value RSP,CHF million,Current Prices,7.4
+89,Switzerland,Other Traditional Toys and Games,Retail Value RSP,CHF million,Current Prices,19.5
+89,Switzerland,Video Games Hardware,Retail Value RSP,CHF million,Current Prices,182.1
+89,Switzerland,Video Games Software,Retail Value RSP,CHF million,Current Prices,392.6
+90,Taiwan,Action Figures and Accessories,Retail Value RSP,TWD million,Current Prices,3148.1
+90,Taiwan,Arts and Crafts,Retail Value RSP,TWD million,Current Prices,188.5
+90,Taiwan,Baby and Infant,Retail Value RSP,TWD million,Current Prices,433.5
+90,Taiwan,Construction,Retail Value RSP,TWD million,Current Prices,4530.4
+90,Taiwan,Dolls and Accessories,Retail Value RSP,TWD million,Current Prices,489.8
+90,Taiwan,Dress-Up and Role Play,Retail Value RSP,TWD million,Current Prices,203.6
+90,Taiwan,Games and Puzzles,Retail Value RSP,TWD million,Current Prices,576.8
+90,Taiwan,Model Vehicles,Retail Value RSP,TWD million,Current Prices,735.5
+90,Taiwan,Outdoor and Sports,Retail Value RSP,TWD million,Current Prices,294.1
+90,Taiwan,Plush,Retail Value RSP,TWD million,Current Prices,126.3
+90,Taiwan,Pre-School,Retail Value RSP,TWD million,Current Prices,637.2
+90,Taiwan,Remote Control Toys,Retail Value RSP,TWD million,Current Prices,691.3
+90,Taiwan,Ride-On Vehicles,Retail Value RSP,TWD million,Current Prices,465.6
+90,Taiwan,Scientific/Educational,Retail Value RSP,TWD million,Current Prices,129
+90,Taiwan,Other Traditional Toys and Games,Retail Value RSP,TWD million,Current Prices,391.3
+90,Taiwan,Video Games Hardware,Retail Value RSP,TWD million,Current Prices,5075
+90,Taiwan,Video Games Software,Retail Value RSP,TWD million,Current Prices,39026
+92,Thailand,Action Figures and Accessories,Retail Value RSP,THB million,Current Prices,2351.6
+92,Thailand,Arts and Crafts,Retail Value RSP,THB million,Current Prices,254.1
+92,Thailand,Baby and Infant,Retail Value RSP,THB million,Current Prices,822.3
+92,Thailand,Construction,Retail Value RSP,THB million,Current Prices,2611.4
+92,Thailand,Dolls and Accessories,Retail Value RSP,THB million,Current Prices,998.1
+92,Thailand,Dress-Up and Role Play,Retail Value RSP,THB million,Current Prices,112.2
+92,Thailand,Games and Puzzles,Retail Value RSP,THB million,Current Prices,291.3
+92,Thailand,Model Vehicles,Retail Value RSP,THB million,Current Prices,901.1
+92,Thailand,Outdoor and Sports,Retail Value RSP,THB million,Current Prices,319.7
+92,Thailand,Plush,Retail Value RSP,THB million,Current Prices,2220.6
+92,Thailand,Pre-School,Retail Value RSP,THB million,Current Prices,763.9
+92,Thailand,Remote Control Toys,Retail Value RSP,THB million,Current Prices,449.8
+92,Thailand,Ride-On Vehicles,Retail Value RSP,THB million,Current Prices,70
+92,Thailand,Scientific/Educational,Retail Value RSP,THB million,Current Prices,390.1
+92,Thailand,Other Traditional Toys and Games,Retail Value RSP,THB million,Current Prices,253.2
+92,Thailand,Video Games Hardware,Retail Value RSP,THB million,Current Prices,851.9
+92,Thailand,Video Games Software,Retail Value RSP,THB million,Current Prices,37908.3
+94,Turkey,Action Figures and Accessories,Retail Value RSP,TRY million,Current Prices,171.3
+94,Turkey,Arts and Crafts,Retail Value RSP,TRY million,Current Prices,210.7
+94,Turkey,Baby and Infant,Retail Value RSP,TRY million,Current Prices,670.2
+94,Turkey,Construction,Retail Value RSP,TRY million,Current Prices,806.6
+94,Turkey,Dolls and Accessories,Retail Value RSP,TRY million,Current Prices,898.5
+94,Turkey,Dress-Up and Role Play,Retail Value RSP,TRY million,Current Prices,135.3
+94,Turkey,Games and Puzzles,Retail Value RSP,TRY million,Current Prices,555.5
+94,Turkey,Model Vehicles,Retail Value RSP,TRY million,Current Prices,539.6
+94,Turkey,Outdoor and Sports,Retail Value RSP,TRY million,Current Prices,165.8
+94,Turkey,Plush,Retail Value RSP,TRY million,Current Prices,106.1
+94,Turkey,Pre-School,Retail Value RSP,TRY million,Current Prices,287.3
+94,Turkey,Remote Control Toys,Retail Value RSP,TRY million,Current Prices,64.8
+94,Turkey,Ride-On Vehicles,Retail Value RSP,TRY million,Current Prices,125.9
+94,Turkey,Scientific/Educational,Retail Value RSP,TRY million,Current Prices,67.5
+94,Turkey,Other Traditional Toys and Games,Retail Value RSP,TRY million,Current Prices,128.3
+94,Turkey,Video Games Hardware,Retail Value RSP,TRY million,Current Prices,474.4
+94,Turkey,Video Games Software,Retail Value RSP,TRY million,Current Prices,8704.8
+97,Ukraine,Action Figures and Accessories,Retail Value RSP,UAH million,Current Prices,1041.3
+97,Ukraine,Arts and Crafts,Retail Value RSP,UAH million,Current Prices,641.2
+97,Ukraine,Baby and Infant,Retail Value RSP,UAH million,Current Prices,1056.4
+97,Ukraine,Construction,Retail Value RSP,UAH million,Current Prices,1640
+97,Ukraine,Dolls and Accessories,Retail Value RSP,UAH million,Current Prices,1430
+97,Ukraine,Dress-Up and Role Play,Retail Value RSP,UAH million,Current Prices,410
+97,Ukraine,Games and Puzzles,Retail Value RSP,UAH million,Current Prices,542
+97,Ukraine,Model Vehicles,Retail Value RSP,UAH million,Current Prices,500
+97,Ukraine,Outdoor and Sports,Retail Value RSP,UAH million,Current Prices,340.5
+97,Ukraine,Plush,Retail Value RSP,UAH million,Current Prices,686.8
+97,Ukraine,Pre-School,Retail Value RSP,UAH million,Current Prices,604.8
+97,Ukraine,Remote Control Toys,Retail Value RSP,UAH million,Current Prices,668.3
+97,Ukraine,Ride-On Vehicles,Retail Value RSP,UAH million,Current Prices,421.7
+97,Ukraine,Scientific/Educational,Retail Value RSP,UAH million,Current Prices,379.1
+97,Ukraine,Other Traditional Toys and Games,Retail Value RSP,UAH million,Current Prices,246.2
+97,Ukraine,Video Games Hardware,Retail Value RSP,UAH million,Current Prices,1627.9
+97,Ukraine,Video Games Software,Retail Value RSP,UAH million,Current Prices,7093.7
+98,United Arab Emirates,Action Figures and Accessories,Retail Value RSP,AED million,Current Prices,151
+98,United Arab Emirates,Arts and Crafts,Retail Value RSP,AED million,Current Prices,81.2
+98,United Arab Emirates,Baby and Infant,Retail Value RSP,AED million,Current Prices,96.6
+98,United Arab Emirates,Construction,Retail Value RSP,AED million,Current Prices,190.6
+98,United Arab Emirates,Dolls and Accessories,Retail Value RSP,AED million,Current Prices,178.7
+98,United Arab Emirates,Dress-Up and Role Play,Retail Value RSP,AED million,Current Prices,17.5
+98,United Arab Emirates,Games and Puzzles,Retail Value RSP,AED million,Current Prices,159.1
+98,United Arab Emirates,Model Vehicles,Retail Value RSP,AED million,Current Prices,114.6
+98,United Arab Emirates,Outdoor and Sports,Retail Value RSP,AED million,Current Prices,68.8
+98,United Arab Emirates,Plush,Retail Value RSP,AED million,Current Prices,91.8
+98,United Arab Emirates,Pre-School,Retail Value RSP,AED million,Current Prices,90.5
+98,United Arab Emirates,Remote Control Toys,Retail Value RSP,AED million,Current Prices,95
+98,United Arab Emirates,Ride-On Vehicles,Retail Value RSP,AED million,Current Prices,52.9
+98,United Arab Emirates,Scientific/Educational,Retail Value RSP,AED million,Current Prices,27.9
+98,United Arab Emirates,Other Traditional Toys and Games,Retail Value RSP,AED million,Current Prices,62.6
+98,United Arab Emirates,Video Games Hardware,Retail Value RSP,AED million,Current Prices,1094.1
+98,United Arab Emirates,Video Games Software,Retail Value RSP,AED million,Current Prices,1523.5
+99,United Kingdom,Action Figures and Accessories,Retail Value RSP,GBP million,Current Prices,305.5
+99,United Kingdom,Arts and Crafts,Retail Value RSP,GBP million,Current Prices,182
+99,United Kingdom,Baby and Infant,Retail Value RSP,GBP million,Current Prices,216.8
+99,United Kingdom,Construction,Retail Value RSP,GBP million,Current Prices,674.7
+99,United Kingdom,Dolls and Accessories,Retail Value RSP,GBP million,Current Prices,298.6
+99,United Kingdom,Dress-Up and Role Play,Retail Value RSP,GBP million,Current Prices,113.9
+99,United Kingdom,Games and Puzzles,Retail Value RSP,GBP million,Current Prices,291.7
+99,United Kingdom,Model Vehicles,Retail Value RSP,GBP million,Current Prices,108.7
+99,United Kingdom,Outdoor and Sports,Retail Value RSP,GBP million,Current Prices,180.2
+99,United Kingdom,Plush,Retail Value RSP,GBP million,Current Prices,179.5
+99,United Kingdom,Pre-School,Retail Value RSP,GBP million,Current Prices,159.4
+99,United Kingdom,Remote Control Toys,Retail Value RSP,GBP million,Current Prices,184.6
+99,United Kingdom,Ride-On Vehicles,Retail Value RSP,GBP million,Current Prices,39.7
+99,United Kingdom,Scientific/Educational,Retail Value RSP,GBP million,Current Prices,86.2
+99,United Kingdom,Other Traditional Toys and Games,Retail Value RSP,GBP million,Current Prices,107.6
+99,United Kingdom,Video Games Hardware,Retail Value RSP,GBP million,Current Prices,1298.8
+99,United Kingdom,Video Games Software,Retail Value RSP,GBP million,Current Prices,4217.9
+101,USA,Action Figures and Accessories,Retail Value RSP,USD million,Current Prices,2211
+101,USA,Arts and Crafts,Retail Value RSP,USD million,Current Prices,2003.5
+101,USA,Baby and Infant,Retail Value RSP,USD million,Current Prices,1160.5
+101,USA,Construction,Retail Value RSP,USD million,Current Prices,3084.2
+101,USA,Dolls and Accessories,Retail Value RSP,USD million,Current Prices,5884.5
+101,USA,Dress-Up and Role Play,Retail Value RSP,USD million,Current Prices,852.7
+101,USA,Games and Puzzles,Retail Value RSP,USD million,Current Prices,4136.7
+101,USA,Model Vehicles,Retail Value RSP,USD million,Current Prices,1130.8
+101,USA,Outdoor and Sports,Retail Value RSP,USD million,Current Prices,2711.4
+101,USA,Plush,Retail Value RSP,USD million,Current Prices,1720.5
+101,USA,Pre-School,Retail Value RSP,USD million,Current Prices,2236.3
+101,USA,Remote Control Toys,Retail Value RSP,USD million,Current Prices,608.9
+101,USA,Ride-On Vehicles,Retail Value RSP,USD million,Current Prices,762.3
+101,USA,Scientific/Educational,Retail Value RSP,USD million,Current Prices,715.3
+101,USA,Other Traditional Toys and Games,Retail Value RSP,USD million,Current Prices,643
+101,USA,Video Games Hardware,Retail Value RSP,USD million,Current Prices,8354
+101,USA,Video Games Software,Retail Value RSP,USD million,Current Prices,40290.6
