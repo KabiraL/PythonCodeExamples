@@ -1,2 +1,2 @@
 # PythonCodeExample
-# This repository contains examples of my Python coding: data cleaning and manipulation, exploratory data analysis, summary statistics, and some examples of modeling. All of these examples are from my MS degree coursework. 
+These projects demonstrate my proficiency with Python packages such as numpy, pandas, seaborn, matplotlib, sklearn, and factor_analyzer to conduct data wrangling, exploratory data analyses, modeling, and visualizations. I also interpret the results of my analyses and provide a grandmother-comprehensible explanation of Factor Analysis.
